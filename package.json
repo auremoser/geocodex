@@ -1,0 +1,16 @@
+{
+  "name": "geocode_test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goliatone <hello@goliatone.com> (http://goliatone.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "csv-streamify": "^2.0.0",
+    "csv-write-stream": "^1.0.0",
+    "request": "^2.55.0"
+  }
+}
