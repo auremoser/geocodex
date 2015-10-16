@@ -1,13 +1,11 @@
 ## geocodex
 [project] test of a few geocoders to see results.
 
-### (no _where_ ) to run
-
-...because nothing's been geocoded, che!
+### to run
 
 * cd into directory
 * `npm i` // install node packages
-* `node geocode.js` // to test nokia geocodes sample agains mapzen and mapques -> generates results.csv and errors.csv
+* `node geocode.js` // to test nokia geocodes sample against mapzen and mapquest -> generates results.csv and errors.csv
 * `node diff.js` // to calc the difference between these geocoded values and help decide which one is better
 
 ### what is this?
@@ -18,5 +16,5 @@ Script 2 (`diff.js`) calcs the distance each geocoder references from the standa
 
 ### thanks!
 
-thanks emi for the node help, thanks mapzen and mapquest for the great dev work on your apis
+thanks mapzen and mapquest for the great dev work on your apis
 
