@@ -1,5 +1,5 @@
 ## geocodex
-[project] test of a few geocoders to see results.
+[project] test of a few geocoders against a control table of correctly geocoded results and assess how solid the alt-geo-coders are.
 
 ### to run
 
