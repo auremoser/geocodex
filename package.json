@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "goliatone <hello@goliatone.com> (http://goliatone.com/)",
+  "author": "auremoser <auremoser@gmail.com> (http://algorhyth.ms/)",
   "license": "ISC",
   "dependencies": {
     "csv-streamify": "^2.0.0",
